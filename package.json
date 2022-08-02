@@ -1,0 +1,29 @@
+{
+    "name": "tpgenerator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest --coverage"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/SqPR99/team-profile-generator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/SqPR99/team-profile-generator/issues"
+    },
+    "homepage": "https://github.com/SqPR99/team-profile-generator#readme",
+    "devDependencies": {
+      "jest": "^28.1.1"
+    },
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    }
+  }
