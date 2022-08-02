@@ -15,6 +15,12 @@ Clone the repository to your local machine and open it with your choice of code 
 
 ## [Usage](#table-of-contents)
 Open the repo in your integrated terminal, if you want to run the tests type npm run test, if you want to build your webpage type node index.js and answer the questions
+
+
+https://user-images.githubusercontent.com/105133644/182403607-fb812a3d-7c1a-48f5-bae8-fb8d47ca1fdf.mp4
+
+
+https://user-images.githubusercontent.com/105133644/182403632-7f9261ef-9ed7-4048-87ad-cab203de00fc.mp4
     
 ## [Contributing](#table-of-contents)
 No contributers
